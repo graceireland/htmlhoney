@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## html honey
 
 You can use the [editor on GitHub](https://github.com/graceireland/htmlhoney/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
