@@ -1,8 +1,0 @@
-<DOCTYPE! html>
-<html>
-  <head>
-  </head>
-  <body>
-    <button>Click Me!</button>
-    </body
-</html>
